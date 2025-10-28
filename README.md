@@ -164,6 +164,3 @@ By implementing modern techniques such as **wireless power transmission** and **
 It highlights how minimal hardware, when paired with intelligent design, can create a striking, energy-efficient, and functional display system — a testament to the ingenuity achievable through modern embedded engineering.
 
 ---
-
----
-
