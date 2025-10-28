@@ -167,12 +167,3 @@ It highlights how minimal hardware, when paired with intelligent design, can cre
 
 ---
 
-✅ **Next Step:**  
-Create your repository with the following structure:  
-- `/code` → Add your Arduino `.ino` sketch.  
-- `/schematics` → Upload your EasyEDA design files.  
-- `/docs` → Include your `POV_Display.pdf`.  
-- `/media` → Add pictures or demo videos.  
-Then place this `README.md` in the root and add a `LICENSE` file (MIT).  
-
-Would you like me to generate a matching **MIT License file** next for your repo?
