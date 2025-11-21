@@ -1,10 +1,5 @@
 # 🔵 POV LED Display Using ATtiny85
 
-### Author: M.F. Thawfeek Ahamed  
-**Register No:** AA1377  
-**Institution:** SLTC Research University, Faculty of Engineering  
-**Date Prepared:** 21 November 2021  
-
 ---
 
 ## 🧭 Project Overview
