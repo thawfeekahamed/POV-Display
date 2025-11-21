@@ -123,14 +123,6 @@ The system’s compactness and minimal wiring make it ideal for future integrati
 
 ---
 
-## 📸 Demonstration Videos
-
-- [POV Display Demonstration](https://youtu.be/JrcKJOdjQN8)  
-- [Infrared Receiver Switch](https://youtu.be/ks0bJKX4JH0)  
-- [Wireless Power Transmission](https://youtu.be/4UmVLfFNx7U)
-
----
-
 ## 🚀 Future Enhancements
 
 - Integrate **Bluetooth/Wi-Fi** for real-time text updates.  
@@ -147,7 +139,7 @@ The system’s compactness and minimal wiring make it ideal for future integrati
 **Register No:** AA1377  
 **Department:** Electronics and Telecommunication Engineering  
 **Institution:** SLTC Research University  
-**Email:** [Insert your email here]  
+**Email:** thawfeekahamed1999@gmail.com  
 
 ---
 
